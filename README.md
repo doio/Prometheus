@@ -1,6 +1,8 @@
 # Prometheus
 futurerestore for noobs and lazy people. With a GUI. THIS IS NOT A MODIFIED futurerestore, THIS IS A SEPARATE TOOL WHICH RUNS IT FOR YOU WITH A NICE GUI
 
+<p><img src="https://user-images.githubusercontent.com/15067741/29539686-06469a10-8699-11e7-9702-4d385b2cd0b4.png" width="550" height= "250"></p>
+
 # How to install
 
 1. Download Prometheus.app and install.sh
